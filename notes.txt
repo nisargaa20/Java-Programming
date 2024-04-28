@@ -1,0 +1,35 @@
+
+// Two Sum Problem:
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. 
+You may assume that each input would have exactly one solution, and you may not use the same element twice. 
+You can return the answer in any order.
+
+nums = [1,2,3,4,5,6]
+target = 13
+solution - [0,5] / [5,0]
+
+
+Maximum Subarray Sum:
+Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+
+nums = [9,-8,5,1,0,-3,2,-7,8,5]
+
+
+Valid Parentheses:
+Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid. 
+An input string is valid if:
+Open brackets must be closed by the same type of brackets.
+Open brackets must be closed in the correct order.
+
+({}{[]}[]()){}
+
+
+Longest Common Subsequence:
+Given two strings text1 and text2, return the length of their longest common subsequence. 
+A subsequence of a string is a new string generated from the original string with some characters(can be none)
+deleted without changing the relative order of the remaining characters.
+
+text1 = "elephant"
+text2 = "pantry" 
+// 3
+
