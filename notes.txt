@@ -33,3 +33,11 @@ text1 = "elephant"
 text2 = "pantry" 
 // 3
 
+
+
+week 1:
+Questions :
+// Find if a string is a Palindrome --> True or False
+// reverse an integer --- 256 -> 652
+// find maximum number among 3 integers
+// Find a the largest number number in the array and print both the number and the index
